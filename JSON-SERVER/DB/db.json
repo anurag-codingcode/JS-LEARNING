@@ -1,0 +1,9 @@
+{
+    "Employee":[{"name":"anurag",
+    "id":1,
+    "gender":"male",
+    "salary":83776,
+    "department":"IT",
+    "notes":"Hello",
+    "date":"17/Oct/2002"}]
+}
